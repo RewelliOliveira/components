@@ -1,9 +1,9 @@
-import SelectBox from "./components/SelectedBox/selected-box";
+import Search from "./components/Search/search";
 
 function App() {
   return (
     <div>
-      <SelectBox />
+      <Search/>
     </div>
   );
 }
