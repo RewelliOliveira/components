@@ -9,7 +9,8 @@ function Search() {
     "Investimentos",
     "Poupança",
     "Empréstimos",
-    "poupanca"
+    "poupanca",
+    "arroz"
   ];
 
   const handleSearch = (e) => {
