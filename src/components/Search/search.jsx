@@ -8,7 +8,8 @@ function Search() {
     "Receitas",
     "Investimentos",
     "Poupança",
-    "Empréstimos"
+    "Empréstimos",
+    "poupanca"
   ];
 
   const handleSearch = (e) => {
